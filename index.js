@@ -1,7 +1,7 @@
 var edge = require('edge');
 
 var macdFunc = edge.func({
-    assemblyFile: 'talib\\bin\\Debug\\talib.dll',
+    assemblyFile: 'node_modules\\talib-c\\talib.dll',
     typeName: 'Integration',
     methodName: 'Macd'
 });

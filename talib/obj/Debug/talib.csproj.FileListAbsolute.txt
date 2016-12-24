@@ -3,3 +3,9 @@ E:\Projects\talib-c\talib\bin\Debug\talib.pdb
 E:\Projects\talib-c\talib\obj\Debug\talib.dll
 E:\Projects\talib-c\talib\obj\Debug\talib.pdb
 E:\Projects\talib-c\talib\bin\Debug\TA-Lib-Core.dll
+E:\Projects\tablib-c\talib\obj\Debug\talib.dll
+E:\Projects\tablib-c\talib\obj\Debug\talib.pdb
+E:\Projects\tablib-c\talib.dll
+E:\Projects\tablib-c\talib.pdb
+E:\Projects\tablib-c\node_modules\talib-c\talib.dll
+E:\Projects\tablib-c\node_modules\talib-c\talib.pdb

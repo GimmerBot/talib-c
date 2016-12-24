@@ -1,0 +1,4 @@
+E:\Projects\tablib-c\talib\obj\Release\talib.dll
+E:\Projects\tablib-c\talib\obj\Release\talib.pdb
+E:\Projects\tablib-c\talib.dll
+E:\Projects\tablib-c\talib.pdb
