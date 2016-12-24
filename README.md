@@ -1,2 +1,2 @@
 # tablib-c
-Library tablib to NodeJS 
+Library talib to NodeJS 
