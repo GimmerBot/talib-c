@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Implement talib library from C project",
   "main": "index.js",  
-  "files":["talib/bin/Debug"],
+  "files":["talib/bin/Debug/talib.dll", "talib/bin/Debug/TA-Lib-Core.dll" ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
