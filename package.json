@@ -1,11 +1,11 @@
 {
   "name": "talib-c",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Implement talib library from C project",
   "main": "index.js",
   "files": [
-    "node_modules\\talib-c\\talib.dll",
-    "node_modules\\talib-c\\TA-Lib-Core.dll"
+    "talib.dll",
+    "TA-Lib-Core.dll"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
