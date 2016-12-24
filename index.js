@@ -26,7 +26,6 @@ function macd(int_startIdx, int_endIdx, doubleArray_inReal, int_optInFastPeriod,
     });
 }
 
-//macd(0, 0, [12,3,45], 3, 4, 5, [12,3,45], [12,3,45], [12,3,45], function(result){    
-//});
-
-module.exports = this;
+module.exports = {
+    macd: macd
+};
