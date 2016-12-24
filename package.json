@@ -1,0 +1,19 @@
+{
+  "name": "talib-c",
+  "version": "1.0.0",
+  "description": "Implement talib library from C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "talib",
+    "nodejs",
+    "module"
+  ],
+  "author": "Persio Flexa",
+  "license": "MIT",
+  "dependencies": {
+    "edge": "^6.5.1"
+  }
+}
