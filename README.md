@@ -2,10 +2,12 @@
 Talib Library implement 2 methods to call talib methods
 
 // Sample 1 - Translated methods (Incomplete, need implements more methods)
+
 talib.macd(0, 0, [12,3,45], 3, 4, 5, [12,3,45], [12,3,45], [12,3,45], function(result){    
 });
 
 // Sample 2 - directly method - (Complete, integrated all Talib methods)
+
 talib.func({
     name: "Macd",
     startIdx: 0,
