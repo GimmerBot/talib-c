@@ -1,4 +1,4 @@
-# tablib-c
+# talib-c
 Talib Library implement 2 methods to call talib methods
 
 // Sample 1 - Translated methods (Incomplete, need implements more methods)
