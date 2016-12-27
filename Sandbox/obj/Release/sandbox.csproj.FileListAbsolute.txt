@@ -1,0 +1,11 @@
+E:\Projects\talib-c\Sandbox\bin\Release\Sandbox.exe.config
+E:\Projects\talib-c\Sandbox\bin\Release\Sandbox.exe
+E:\Projects\talib-c\Sandbox\bin\Release\Sandbox.pdb
+E:\Projects\talib-c\Sandbox\bin\Release\Newtonsoft.Json.dll
+E:\Projects\talib-c\Sandbox\bin\Release\talib.dll
+E:\Projects\talib-c\Sandbox\bin\Release\TA-Lib-Core.dll
+E:\Projects\talib-c\Sandbox\bin\Release\talib.pdb
+E:\Projects\talib-c\Sandbox\bin\Release\Newtonsoft.Json.xml
+E:\Projects\talib-c\Sandbox\obj\Release\sandbox.csprojResolveAssemblyReference.cache
+E:\Projects\talib-c\Sandbox\obj\Release\Sandbox.exe
+E:\Projects\talib-c\Sandbox\obj\Release\Sandbox.pdb
