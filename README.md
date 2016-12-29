@@ -4,7 +4,7 @@ Talib-c implements all talib methods to async calls
 ``` js
 var talib = require("talib-c");
 
-// Sample 1 - Translated methods (Incomplete, need implements more methods)
+// Sample 1 - Translated methods 
 __awaiter(this, void 0, Promise, function* () {
 
     // translated methods 
