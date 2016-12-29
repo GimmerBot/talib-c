@@ -1,5 +1,4 @@
 E:\Projects\talib-c\Sandbox\bin\Debug\Sandbox.exe.config
-E:\Projects\talib-c\Sandbox\obj\Debug\Sandbox.csprojResolveAssemblyReference.cache
 E:\Projects\talib-c\Sandbox\bin\Debug\Sandbox.exe
 E:\Projects\talib-c\Sandbox\bin\Debug\Sandbox.pdb
 E:\Projects\talib-c\Sandbox\bin\Debug\talib.dll
@@ -9,3 +8,4 @@ E:\Projects\talib-c\Sandbox\obj\Debug\Sandbox.exe
 E:\Projects\talib-c\Sandbox\obj\Debug\Sandbox.pdb
 E:\Projects\talib-c\Sandbox\bin\Debug\Newtonsoft.Json.dll
 E:\Projects\talib-c\Sandbox\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\talib-c\Sandbox\obj\Debug\sandbox.csprojResolveAssemblyReference.cache

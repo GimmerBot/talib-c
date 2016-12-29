@@ -2,7 +2,6 @@ E:\Projects\tablib-c\talib\obj\Release\talib.dll
 E:\Projects\tablib-c\talib\obj\Release\talib.pdb
 E:\Projects\tablib-c\talib.dll
 E:\Projects\tablib-c\talib.pdb
-E:\Projects\talib-c\talib\obj\Release\talib.csprojResolveAssemblyReference.cache
 E:\Projects\talib-c\talib\obj\Release\talib.dll
 E:\Projects\talib-c\talib\obj\Release\talib.pdb
 E:\Projects\talib-c\talib.dll
