@@ -7,8 +7,6 @@ var talib = require("talib-c");
 __awaiter(this, void 0, Promise, function* () {
 
     // translated methods 
-    result = yield talib.func({ name: "Acos", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });    
-
     result = yield talib.func({ name: "Acos", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
     result = yield talib.func({ name: "AcosLookback" });
 
