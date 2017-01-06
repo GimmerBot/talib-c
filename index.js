@@ -110,23 +110,21 @@ RetCode =
     };
 
 function talibFuncAsync(parameters, callback) {
-    return __awaiter(this, void 0, Promise, function* () {
-        return new Promise(function (resolve, reject) {
-            talibFunc(parameters, function (error, result) {
-                if (error) {
-                    reject(error);
-                }
-                else {
-                    result.name = parameters.name;                    
-                    resolve(result);
+    return new Promise(function (resolve, reject) {
+        talibFunc(parameters, function (error, result) {
+            if (error) {
+                reject(error);
+            }
+            else {
+                result.name = parameters.name;                    
+                resolve(result);
 
-                    if (callback) {
-                        callback(result);
-                    }
-
-                    console.log(result);
+                if (callback) {
+                    callback(result);
                 }
-            });
+
+                console.log(result);
+            }
         });
     });
 }
