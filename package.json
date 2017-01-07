@@ -1,6 +1,6 @@
 {
   "name": "talib-c",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Implement talib library from C project",
   "main": "index.js",
   "files": [
