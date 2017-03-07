@@ -140,7 +140,6 @@ __awaiter(this, void 0, Promise, function* () {
     result = yield talib.func({ name: "CdlHikkakeModLookback" });
 
     result = yield talib.func({ name: "CdlHomingPigeon", startIdx: 0, endIdx: 2, inOpen: [12, 3, 45], inHigh: [12, 3, 45], inLow: [12, 3, 45], inClose: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outInteger: [12, 3, 45] });
-    result = yield talib.func({ name: "CdlHomingPigeonLookback" });
     result = yield talib.func({ name: "CdlIdentical3Crows", startIdx: 0, endIdx: 2, inOpen: [12, 3, 45], inHigh: [12, 3, 45], inLow: [12, 3, 45], inClose: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outInteger: [12, 3, 45] });
 
     result = yield talib.func({ name: "CdlIdentical3CrowsLookback" });
@@ -257,7 +256,6 @@ __awaiter(this, void 0, Promise, function* () {
     result = yield talib.func({ name: "Floor", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
     result = yield talib.func({ name: "FloorLookback" });
     result = yield talib.func({ name: "GetCompatibility" });
-    result = yield talib.func({ name: "GetUnstablePeriod", FuncUnstId: FuncUnstId.Ema });
     result = yield talib.func({ name: "HtDcPeriod", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
     result = yield talib.func({ name: "HtDcPeriodLookback" });
     result = yield talib.func({ name: "HtDcPhase", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
@@ -358,7 +356,6 @@ __awaiter(this, void 0, Promise, function* () {
     result = yield talib.func({ name: "SarLookback", optInAcceleration: 1, optInMaximum: 2 });
     result = yield talib.func({ name: "SetCandleSettings", settingType: CandleSettingType.AllCandleSettings, rangeType: RangeType.RealBody, avgPeriod: 2, factor: 1 });
     result = yield talib.func({ name: "SetCompatibility", value: Compatibility.Default });
-    result = yield talib.func({ name: "SetUnstablePeriod", id: FuncUnstId.Ema, unstablePeriod: 0 });
     result = yield talib.func({ name: "Sin", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
     result = yield talib.func({ name: "Sinh", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
     result = yield talib.func({ name: "SinhLookback" });
@@ -406,9 +403,6 @@ __awaiter(this, void 0, Promise, function* () {
     result = yield talib.func({ name: "UltOscLookback", optInTimePeriod1: 1, optInTimePeriod2: 2, optInTimePeriod3: 0 });
     result = yield talib.func({ name: "Variance", startIdx: 0, endIdx: 2, inReal: [12, 3, 45], optInTimePeriod: 2, optInNbDev: 1, outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
     result = yield talib.func({ name: "VarianceLookback", optInTimePeriod: 2, optInNbDev: 1 });
-
-    result = yield talib.func({ name: "WclPrice", startIdx: 0, endIdx: 2, inHigh: [12, 3, 45], inLow: [12, 3, 45], inClose: [12, 3, 45], outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
-    result = yield talib.func({ name: "WclPriceLookback" });
 
     result = yield talib.func({ name: "WillR", startIdx: 0, endIdx: 2, inHigh: [12, 3, 45], inLow: [12, 3, 45], inClose: [12, 3, 45], optInTimePeriod: 2, outBegIdx: 0, outNBElement: 0, outReal: [12, 3, 45] });
     result = yield talib.func({ name: "WillRLookback", optInTimePeriod: 2 });

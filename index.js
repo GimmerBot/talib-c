@@ -1,4 +1,5 @@
 var edge = require('edge');
+var findNodeModules  = require ('find-node-modules') ;
 
 __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -10,7 +11,7 @@ __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, genera
 };
 
 var talibFunc = edge.func({
-    assemblyFile: 'node_modules\\talib-c\\talib.dll',
+    assemblyFile: findNodeModules()[0] + '\\talib-c\\talib.dll',
     typeName: 'Integration',
     methodName: 'Execute'
 });
@@ -121,9 +122,7 @@ function talibFuncAsync(parameters, callback) {
 
                 if (callback) {
                     callback(result);
-                }
-
-                console.log(result);
+                }                
             }
         });
     });
