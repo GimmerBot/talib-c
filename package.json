@@ -1,6 +1,6 @@
 {
   "name": "talib-c",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "Implement talib library from C project",
   "main": "index.js",
   "files": [
@@ -18,7 +18,7 @@
   "author": "Persio Flexa",
   "license": "MIT",
   "dependencies": {
-    "edge": "^6.5.1",
+    "edge": "github:tjanczuk/edge",
     "find-node-modules": "^1.0.4"
   }
 }
